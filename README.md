@@ -1,2 +1,2 @@
 # take_2
-Take two on ruby on rails and react
+Take two of ruby on rails and react
